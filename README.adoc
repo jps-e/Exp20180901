@@ -1,4 +1,4 @@
-# Exp20180901
+= Exp20180901
 Experiment with README.adoc
 asciidoc form of the public domain book, "A Thousand Miles Up the Nile" by Amelia B. Edwards
 
